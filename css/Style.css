@@ -1,0 +1,33 @@
+p {color: rgba(red, green, blue, alpha);}
+p.first, .third{color: blue;}
+p.second{color: rgba(157, 241, 22,0.849);}
+h1,h2{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+
+
+p.third{
+    text-transform: uppercase;
+    text-indent: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h2{ font-family: 'Times New Roman', Times, serif ;}
+body {
+    background-image: url("https://www.color-name.com/color-image?c=EAD2A8&desktop");
+    background-repeat: repeat-x;
+    background-size: auto;
+
+}
+
+h1 {
+    background-color: bisque;
+}
+
+img {
+    border-radius: 20%;
+}
